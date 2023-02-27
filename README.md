@@ -6,11 +6,12 @@
   <h3 align="center">College of Engineering</h3>
 - 
   <p align="center">
-    CSULB-CECS 326-Operating Systems-Spring 2023 - Group Project 1 - Warm up of Interprocess Communication 
+    CSULB CECS 326 - Operating Systems - Spring 2023 
+    <br> Group Project 1 - Warm up of Interprocess Communication 
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="https://github.com/toanle0/CECS326-a1/issues/new?template=bug.md">Report bug</a>
     ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://github.com/toanle0/CECS326-a1/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
 </p>
 
